@@ -1,9 +1,9 @@
-<img src="../assets/todoapp.png" alt="Imagem do banner todo app" />
+<img src="./assets/todoapp.png" alt="Imagem do banner todo app" />
 
 <p align="center">
-  <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/rocketseat-ignite-desafios?color=4f46e5&style=for-the-badge">
-  <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/geovaneborba/rocketseat-ignite-desafios?color=4f46e5&style=for-the-badge"> <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/geovaneborba/rocketseat-ignite-desafios?color=4f46e5&style=for-the-badge">
-  <img alt="Licença" src="https://img.shields.io/github/license/geovaneborba/rocketseat-ignite-desafios?color=4f46e5&style=for-the-badge">
+  <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/todo-app?color=4f46e5&style=for-the-badge">
+  <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/geovaneborba/todo-app?color=4f46e5&style=for-the-badge"> <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/geovaneborba/todo-app?color=4f46e5&style=for-the-badge">
+  <img alt="Licença" src="https://img.shields.io/github/license/geovaneborba/todo-app?color=4f46e5&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -66,17 +66,19 @@ Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](htt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/geovaneborba/rocketseat-ignite-desafios.git
+$ git clone https://github.com/geovaneborba/todo-app.git
 
-# Entre na pasta
-$ cd 01-praticando-os-conceitos-do-react
+# Entre na pasta todo-app
+$ cd todo-app
 
 # Instale as dependências
 $ npm install
 
 # Para iniciar o projeto
 $ npm run dev
-# O app vai inicializar em < http://localhost:5173 />
+
+# O app vai inicializar e será informado no terminal o endereço e porta onde estará rodando a aplicação
+# geralmente é http://localhost:5173/
 
 ```
 
